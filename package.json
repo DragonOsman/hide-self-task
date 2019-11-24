@@ -40,10 +40,6 @@
     "defaults-deep": "^0.2.4",
     "engine": "^1.0.0",
     "engine-base": "^1.0.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-node": "^10.0.0",
-    "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-standard": "^4.0.1",
     "expand-pkg": "^0.1.9",
     "get-view": "^2.0.0",
     "install": "^0.13.0",
@@ -70,6 +66,10 @@
   },
   "devDependencies": {
     "eslint": "^6.7.0",
-    "eslint-config-standard": "^14.1.0"
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
   }
 }
