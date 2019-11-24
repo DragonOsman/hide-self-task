@@ -16,8 +16,8 @@
         "eqeqeq": "error",
         "prefer-const": "error",
         "quotes": [
-            "double",
-            "error"
+            "error",
+            "double"
         ],
         "semi": "off",
         "no-var": "error"
