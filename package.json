@@ -1,0 +1,22 @@
+{
+  "name": "hide-self_task",
+  "version": "1.0.0",
+  "description": "JavaScript.info task to create a button that would hide itself when clicked",
+  "main": "scripts/script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonOsman/hide-self-task.git"
+  },
+  "keywords": [
+    "task",
+    "javascript.info",
+    "hide-self-task",
+    "button"
+  ],
+  "author": "Osman Zakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonOsman/hide-self-task/issues"
+  },
+  "homepage": "https://github.com/DragonOsman/hide-self-task#readme"
+}
